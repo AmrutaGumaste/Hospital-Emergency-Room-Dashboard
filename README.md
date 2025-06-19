@@ -85,3 +85,6 @@ Load your data or use the demo dataset included.
 Use the slicers (Year, Month, Date Range) to explore specific time periods.
 Navigate through the dashboard tabs: Monthly View, Consolidated View, Patient Details, Key Takeaways.
 Customize visuals or DAX as needed to fit your organizational context.
+
+Screenshot Demo
+https://github.com/AmrutaGumaste/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard-%20Power%20BI.png
